@@ -1,12 +1,11 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var firebaseConfig = {
-  apiKey: "AIzaSyC31QNHkvdWZM3zb8Dl8aF8EGLTw4fTjo8",
-  authDomain: "jeevanam-e84ba.firebaseapp.com",
-  databaseURL: "https://jeevanam-e84ba.firebaseio.com",
-  projectId: "jeevanam-e84ba",
-  storageBucket: "jeevanam-e84ba.appspot.com",
-  messagingSenderId: "462727649567",
-  appId: "1:462727649567:web:f906a72de6a95e6587b82a",
+      apiKey: "AIzaSyABabX4gLruIhHvs_l6QMwgnZEzz8K17BY",
+    authDomain: "blood-donation-app-b9d3d.firebaseapp.com",
+    projectId: "blood-donation-app-b9d3d",
+    storageBucket: "blood-donation-app-b9d3d.appspot.com",
+    messagingSenderId: "422272546203",
+    appId: "1:422272546203:web:b84e6cc0b6a58ef0bf9d3e"
   measurementId: "G-VRK70M867Y"
 };
 // Initialize Firebase
